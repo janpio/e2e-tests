@@ -4,19 +4,19 @@
 
 "@prisma/client@2.25.0-dev.14":
   version "2.25.0-dev.14"
-  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.25.0-dev.14.tgz#f9e7a40ec8e2fa72491b7ed9f44921c50beb5be0"
+  resolved "https://registry.npmjs.org/@prisma/client/-/client-2.25.0-dev.14.tgz"
   integrity sha512-scvKMYo0+Z+PyJ7q/bOUY5MnAiSR+bxXHUg970FAhanAoeIvKIdiZ7OrXPsfp3bp8T/mx7M4KRQp/Lbc05rLow==
   dependencies:
     "@prisma/engines-version" "2.25.0-9.de005f74e95623a80a9912ba883fd105fcac5fda"
 
 "@prisma/engines-version@2.25.0-9.de005f74e95623a80a9912ba883fd105fcac5fda":
   version "2.25.0-9.de005f74e95623a80a9912ba883fd105fcac5fda"
-  resolved "https://registry.yarnpkg.com/@prisma/engines-version/-/engines-version-2.25.0-9.de005f74e95623a80a9912ba883fd105fcac5fda.tgz#020fc659b8b8cceff9614006f62abc71dd95def8"
+  resolved "https://registry.npmjs.org/@prisma/engines-version/-/engines-version-2.25.0-9.de005f74e95623a80a9912ba883fd105fcac5fda.tgz"
   integrity sha512-aYd2vR80WDbCQmhHd9xPB5jXX5tNryMSX7qpoG3f3rmOq1kYCl3K5DxzZu9g0m9l9Abf8e1A8dbSNqu+EM0Xuw==
 
 "@prisma/engines@2.25.0-9.de005f74e95623a80a9912ba883fd105fcac5fda":
   version "2.25.0-9.de005f74e95623a80a9912ba883fd105fcac5fda"
-  resolved "https://registry.yarnpkg.com/@prisma/engines/-/engines-2.25.0-9.de005f74e95623a80a9912ba883fd105fcac5fda.tgz#2765f43d35fc278470e4be7269fc3287865d29a1"
+  resolved "https://registry.npmjs.org/@prisma/engines/-/engines-2.25.0-9.de005f74e95623a80a9912ba883fd105fcac5fda.tgz"
   integrity sha512-ac+ExdlRTjkeEUvrtVqs3v21xpJ1AItzMA9XbHys5vcVsBAOWWRDErHr7QE1PM3AI/Gaunmsu5N2yW2MvR0A1Q==
 
 "@types/node@12.20.14":
@@ -51,7 +51,7 @@ make-error@^1.1.1:
 
 prisma@2.25.0-dev.14:
   version "2.25.0-dev.14"
-  resolved "https://registry.yarnpkg.com/prisma/-/prisma-2.25.0-dev.14.tgz#fd24710acaf0f4dee26a0da069bdbf631655b367"
+  resolved "https://registry.npmjs.org/prisma/-/prisma-2.25.0-dev.14.tgz"
   integrity sha512-FmhreQc03dS/okNpB25q3Y7OVDjSfsJgz+cTT0hm/hh3i64OqASOeJBEG1JuJWzjenuuuS6a7iUQj+21f5SCSA==
   dependencies:
     "@prisma/engines" "2.25.0-9.de005f74e95623a80a9912ba883fd105fcac5fda"
@@ -81,10 +81,10 @@ ts-node@9.1.1:
     source-map-support "^0.5.17"
     yn "3.1.1"
 
-typescript@4.2.4:
-  version "4.2.4"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-4.2.4.tgz"
-  integrity sha512-V+evlYHZnQkaz8TRBuxTA92yZBPotr5H+WhQ7bD3hZUndx5tGOa1fuCgeSjxAzM1RiN5IzvadIXTVefuuwZCRg==
+typescript@4.3.2:
+  version "4.3.2"
+  resolved "https://registry.npmjs.org/typescript/-/typescript-4.3.2.tgz"
+  integrity sha512-zZ4hShnmnoVnAHpVHWpTcxdv7dWP60S2FsydQLV8V5PbS3FifjWFFRiHSWpDJahly88PRyV5teTSLoq4eG7mKw==
 
 yn@3.1.1:
   version "3.1.1"

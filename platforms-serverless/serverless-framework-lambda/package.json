@@ -5,7 +5,7 @@
     "aws-sdk": "2.920.0",
     "prisma": "2.25.0-dev.14",
     "serverless": "2.44.0",
-    "ts-node": "9.1.1",
+    "ts-node": "10.0.0",
     "typescript": "4.2.4"
   },
   "dependencies": {

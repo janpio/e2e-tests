@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "pkg": "4.5.1",
+    "pkg": "5.2.1",
     "prisma": "2.25.0-dev.14"
   },
   "dependencies": {
